@@ -1,9 +1,8 @@
 # Hi there, I'm Poorvith Devang 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20UI%2FUX-0ea5e9?style=flat" alt="Focus: Full-Stack and UI/UX" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru-16a34a?style=flat" alt="Location: Bengaluru" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-f59e0b?style=flat" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru-16a34a?style=flat-square" alt="Location: Bengaluru" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-f59e0b?style=flat-square" alt="Open to work" />
 </p>
 
 ## About Me

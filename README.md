@@ -17,18 +17,6 @@
 - Portfolio: [poorvithdevang861.github.io/poorvith-portfolio](https://poorvithdevang861.github.io/poorvith-portfolio/)
 - GitHub: [@poorvithdevang861](https://github.com/poorvithdevang861)
 
-## Open Source & Contributions
-
-I actively contribute to open-source projects and value readable code, strong documentation, and meaningful impact.
-
-### Recent contribution targets
-
-- [poorvithdevang861/bloodbankdb](https://github.com/poorvithdevang861/bloodbankdb)
-- [poorvithdevang861/socialconnect](https://github.com/poorvithdevang861/socialconnect)
-- [poorvithdevang861/websystem](https://github.com/poorvithdevang861/websystem)
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-- [upstash/context7](https://github.com/upstash/context7)
-
 ## Featured Projects
 
 - **[bloodbankdb](https://github.com/poorvithdevang861/bloodbankdb)**  
@@ -51,18 +39,6 @@ I actively contribute to open-source projects and value readable code, strong do
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## GitHub Analytics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=poorvithdevang861&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorvithdevang861&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorvithdevang861&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ## Current Focus
 

@@ -9,6 +9,7 @@
 
 - CS + Design background, focused on building polished product experiences.
 - Into UI/UX, full-stack development, and practical automation.
+- I write articles and focus on research.
 - Based in Bengaluru.
 - Currently building and shipping projects that are useful and cleanly engineered.
 

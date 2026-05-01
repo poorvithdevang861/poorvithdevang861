@@ -1,8 +1,9 @@
 # Hi there, I'm Poorvith Devang 👋
 
 <p align="left">
-  <a href="https://github.com/poorvithdevang861"><img src="https://komarev.com/ghpvc/?username=poorvithdevang861&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
-  <a href="https://github.com/poorvithdevang861?tab=followers"><img src="https://img.shields.io/github/followers/poorvithdevang861?label=Followers&style=social" alt="GitHub followers" /></a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20UI%2FUX-0ea5e9?style=flat" alt="Focus: Full-Stack and UI/UX" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru-16a34a?style=flat" alt="Location: Bengaluru" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-f59e0b?style=flat" alt="Open to collaboration" />
 </p>
 
 ## About Me
